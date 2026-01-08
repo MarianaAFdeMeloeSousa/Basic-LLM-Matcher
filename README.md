@@ -15,7 +15,7 @@ resume matches a given job description.
 - NLP Embeddings
 - Cosine Similarity
 
-## 🚀 Run Instructions
+## 4.Run Instructions
 ```bash
 pip install -r requirements.txt
 python src/main.py

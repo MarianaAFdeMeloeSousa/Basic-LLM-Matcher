@@ -1,0 +1,2 @@
+Skills: SQL, Data Analysis, Pandas, Azure
+Experience: Used SQL to analysi big data sets, interested in ML

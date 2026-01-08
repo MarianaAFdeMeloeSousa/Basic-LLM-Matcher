@@ -1,0 +1,2 @@
+Skills: Python, Machine Learning, Data Analysis, Pandas, Scikit-learn
+Experience: Built ML models for regression and classification problems.

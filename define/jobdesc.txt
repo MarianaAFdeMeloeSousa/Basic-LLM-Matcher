@@ -1,0 +1,2 @@
+We are looking for a Machine Learning Intern with experience in Python,
+data preprocessing, model evaluation, and basic NLP.

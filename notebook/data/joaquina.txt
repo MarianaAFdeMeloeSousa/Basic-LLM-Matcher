@@ -1,0 +1,2 @@
+Skills: Python, R, Machine Learning, Data Analyis, PyTorch, MatplotLib
+Experience: Python developer with experience in ML, including libraries such as PyTorch

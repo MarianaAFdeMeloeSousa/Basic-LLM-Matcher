@@ -1,0 +1,2 @@
+Skills: Python, ML, Data Analysis
+Experience: Built ML models 
